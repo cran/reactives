@@ -1,6 +1,6 @@
 Package: reactives
 Title: Keyed Collections of 'shiny' Reactives
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("Nicolas", "Bennett", , "nicolas@cynkra.com",
            role = c("aut", "cre", "cph"))
@@ -21,8 +21,8 @@ URL: https://nbenn.github.io/reactives/,
         https://github.com/nbenn/reactives
 BugReports: https://github.com/nbenn/reactives/issues
 NeedsCompilation: no
-Packaged: 2026-10-05 12:34:27 UTC; coder
+Packaged: 2026-11-02 06:16:33 UTC; coder
 Author: Nicolas Bennett [aut, cre, cph]
 Maintainer: Nicolas Bennett <nicolas@cynkra.com>
 Repository: CRAN
-Date/Publication: 2026-10-15 17:30:02 UTC
+Date/Publication: 2026-11-02 07:20:02 UTC

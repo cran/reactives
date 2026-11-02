@@ -1,6 +1,6 @@
-9a0d156fbf63203618f49976f63c2b94 *DESCRIPTION
+c823be40bd97105d721f28c037c5a175 *DESCRIPTION
 1912a6dc9c598fe1a28a74e6a3f395dc *NAMESPACE
-66b5673bdba5619d2e50d0ed28541504 *NEWS.md
+63c49619902c6cc59624b642e2754cd1 *NEWS.md
 697a225fac639359898ae9b762177d09 *R/package.R
 3c9a79fa687256e9a6be659cb341f8ed *R/reactives.R
 a533284920faa74185563e5e9f53411e *R/snapshot.R
@@ -17,6 +17,6 @@ e7dd628e474b9578ae79e237da158ea9 *man/reactives-package.Rd
 953d9d5c3f55262c574a8c732765cef6 *tests/testthat.R
 534ab31f70743389f56e7971d4466436 *tests/testthat/helper-reactlog.R
 a0a0f79a1d6c8d30313abcb691bef72f *tests/testthat/helper-session.R
-64f335727c6db65e00d6661d1d0fe79b *tests/testthat/test-reactives.R
+f77e87e8f1dd6af69d7d5fd3e1a06446 *tests/testthat/test-reactives.R
 723bdb9ee9f493a940d1b8307ef9ce06 *tests/testthat/test-snapshot.R
 fae7cf54a0cd71057d3c3947e094383b *vignettes/reactives.Rmd
